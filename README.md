@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E00FF,100:00D4FF&height=220&section=header&text=<YOUR%20GITHUB%20HANDLE>&fontSize=44&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="banner"/>
-</p>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> — I'm <YOUR NAME></h1>
+
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> — I'm <Rémi></h1>
 
 <p align="center">A <BOLD KEYWORD e.g., passionate> <YOUR ROLE> from <YOUR LOCATION>.</p>
 
