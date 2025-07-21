@@ -20,7 +20,7 @@ This summer, I’ll be joining the Institute for Computing Systems Architecture 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Chisel-FE5A1D?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel"/>
 </p>
