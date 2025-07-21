@@ -10,29 +10,17 @@
 
 I’m curious about how software and hardware work together, whether that’s the structure of a digital system or how things can be made to run more efficiently. That curiosity has led me to explore both aspects of my degree: I’ve worked on personal projects ranging from building websites and writing code to hands-on projects with physical hardware. I enjoy figuring out how to make systems work better, especially when there’s a mix of design and performance involved.
 
-This summer, I’ll be joining the Institute for Computing Systems Architecture (ICSA) at the University of Edinburgh for a research internship focused on hardware optimisation. I’ll be working on the Gemmini deep learning accelerator platform — an open-source systolic array designed to run AI workloads efficiently on RISC-V systems. My focus will be on analysing and improving system-level performance: exploring how architectural changes and hardware–software co-design can better support AI inference tasks.
+This summer, I’ll be joining the Institute for Computing Systems Architecture (ICSA) at the University of Edinburgh for a research internship focused on hardware optimisation. I’ll be working on the Gemmini deep learning accelerator platform - an open-source systolic array designed to run AI workloads efficiently on RISC-V systems. My focus will be on analysing and improving system-level performance: exploring how architectural changes and hardware-software co-design can better support AI inference tasks.
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,java,go,cpp,aws,gcp,docker,kubernetes,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,verilog,python,java,matlab,javascript,html,css" />
 </div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_HANDLE>&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_HANDLE>&layout=compact&theme=transparent&hide_border=true" />
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<sub>Generated with [GitHub Readme Dev](https://github.com/marketplace/actions/blog-post-workflow) &mdash; replace with your own feed!</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Chisel-FE5A1D?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel"/>
+</p>
 
 ---
 
