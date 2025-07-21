@@ -29,22 +29,9 @@ This summer, I’ll be joining the Institute for Computing Systems Architecture 
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/<linkedin-username>/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/<twitter-handle>" target="_blank"><img src="https://img.shields.io/badge/X-%23181717.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:<email@example.com>"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/<remi-thomson>/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:<remi.thomson@btinternet.com>"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
-
-## ☕ Support My Work
-
-> If you like what I do, maybe consider buying me a coffee <3
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/<username>" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%2346b2e0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center"><sub>✨ This README.md is a work in progress — feel free to fork and personalize!</sub></p>
 
