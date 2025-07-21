@@ -36,6 +36,3 @@ This summer, I’ll be joining the Institute for Computing Systems Architecture 
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
