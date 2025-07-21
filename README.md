@@ -8,12 +8,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **<PROJECT/COMPANY>**
-- 🌱 I’m currently learning **<TECHNOLOGY/FRAMEWORK>**
-- 📝 I occasionally write articles on [<Blog Name>](<Blog URL>)
-- 💬 Ask me about **<TOPICS>**
-- 📫 How to reach me **<email@example.com>**
-- ⚡ Fun fact **<Fun fact about you>**
+I’m curious about how software and hardware work together, whether that’s the structure of a digital system or how things can be made to run more efficiently. That curiosity has led me to explore both aspects of my degree: I’ve worked on personal projects ranging from building websites and writing code to hands-on projects with physical hardware. I enjoy figuring out how to make systems work better, especially when there’s a mix of design and performance involved.
+
+This summer, I’ll be joining the Institute for Computing Systems Architecture (ICSA) at the University of Edinburgh for a research internship focused on hardware optimisation. I’ll be working on the Gemmini deep learning accelerator platform — an open-source systolic array designed to run AI workloads efficiently on RISC-V systems. My focus will be on analysing and improving system-level performance: exploring how architectural changes and hardware–software co-design can better support AI inference tasks.
 
 ---
 
