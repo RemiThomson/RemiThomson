@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## :smiley: About Me
 
 I’m curious about how software and hardware work together, whether that’s the structure of a digital system or how things can be made to run more efficiently. That curiosity has led me to explore both aspects of my degree: I’ve worked on personal projects ranging from building websites and writing code to hands-on projects with physical hardware. I enjoy figuring out how to make systems work better, especially when there’s a mix of design and performance involved.
 
