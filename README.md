@@ -1,6 +1,6 @@
 
 
-<h1 align="center">I'm Rémi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+<h1 align="center">I'm Rémi   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
 
 <p align="center"><BOLD KEYWORD e.g., passionate>MEng Electronics and Computer Science Student at the University of Edinburgh.</p>
