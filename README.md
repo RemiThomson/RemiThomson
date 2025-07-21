@@ -20,7 +20,7 @@ This summer, I’ll be joining the Institute for Computing Systems Architecture 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Chisel-FE5A1D?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel"/>
 </p>
